@@ -15,6 +15,7 @@ public class Activity1 {
 			}
 		});
     	context.start();
+
     	Thread.sleep(10000);
     	context.stop();
 	}
